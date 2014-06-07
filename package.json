@@ -1,0 +1,8 @@
+{
+	"name": "irccloud-archive",
+	"version": "0.0.0",
+	"dependencies": {	
+		"request" : "2.36.0"
+			, "websocket" : "1.0.8"
+	}
+}
